@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "723987863459",
+    "project_id": "universitylogginapp",
+    "storage_bucket": "universitylogginapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723987863459:android:17e067078caffdf3b32c16",
+        "android_client_info": {
+          "package_name": "com.example.login_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723987863459-c0qp1flc24cmiiebdeveo2rh6fm28r6e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.login_test",
+            "certificate_hash": "5366f2a8a78500ba6e0968783ebff4bff329104b"
+          }
+        },
+        {
+          "client_id": "723987863459-v1odf4m5ts3npem2vr2nt4qhl76bfvs7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaFzG_IPSVs6XhP6RBeuPGX3pqDiPBKnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723987863459-v1odf4m5ts3npem2vr2nt4qhl76bfvs7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
